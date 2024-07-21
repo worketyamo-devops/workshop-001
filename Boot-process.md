@@ -1,4 +1,9 @@
-aLe processus de boot sous Linux se compose de plusieurs étapes distinctes qui permettent au système d'exploitation de passer de l'état de mise sous tension à un système pleinement opérationnel. Voici une vue d'ensemble des principales étapes du processus de boot :
+
+
+<img src="images/diagram.png" alt="Diagram" width="400"/>
+
+
+Le processus de boot sous Linux se compose de plusieurs étapes distinctes qui permettent au système d'exploitation de passer de l'état de mise sous tension à un système pleinement opérationnel. Voici une vue d'ensemble des principales étapes du processus de boot :
 
 1. **BIOS/UEFI** :
    - **BIOS (Basic Input/Output System)** ou **UEFI (Unified Extensible Firmware Interface)** est le premier code exécuté lorsque l'ordinateur est allumé.
